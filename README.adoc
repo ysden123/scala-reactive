@@ -1,0 +1,11 @@
+= scala-reactive
+
+Scala reactive exercises.
+
+Reading "Scala Reactive Programming" by Rambabu Posa.
+
+== rxscala
+
+Simple example of use the RxScala.
+
+Disadvantage of RxScala - does not support last version of RxJava 2.
